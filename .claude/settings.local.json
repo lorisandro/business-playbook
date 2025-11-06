@@ -18,7 +18,11 @@
       "Bash(git push)",
       "Bash(node create-icons.js:*)",
       "Bash(npm run build:*)",
-      "Bash(npm uninstall:*)"
+      "Bash(npm uninstall:*)",
+      "WebFetch(domain:creaimpresa.it)",
+      "WebFetch(domain:kit.creaimpresa.it)",
+      "WebFetch(domain:www.creaimpresa.it)",
+      "WebFetch(domain:creaimpresa.teachable.com)"
     ],
     "deny": [],
     "ask": []
