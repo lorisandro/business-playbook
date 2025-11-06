@@ -22,7 +22,8 @@
       "WebFetch(domain:creaimpresa.it)",
       "WebFetch(domain:kit.creaimpresa.it)",
       "WebFetch(domain:www.creaimpresa.it)",
-      "WebFetch(domain:creaimpresa.teachable.com)"
+      "WebFetch(domain:creaimpresa.teachable.com)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []
