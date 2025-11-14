@@ -1,6 +1,6 @@
-# Etsy Printables Passive Income (Midjourney)
+# Etsy Printables Reddito Passivo (Midjourney)
 
-## 📊 Quick Stats (DATI REALI VERIFICATI 2024)
+## 📊 Statistiche Rapide (DATI REALI VERIFICATI 2024)
 
 - **ROI Score:** 75/100
 - **Budget Iniziale:** €150-300
@@ -8,19 +8,19 @@
 - **Utile Anno 1:** €3,000-12,000
 - **Competizione:** 🔴 Alta (milioni di listings)
 - **Scalabilità:** ⭐⭐⭐⭐⭐
-- **Passive Level:** ✅ **TRUE PASSIVE** (5-10h/sett dopo mese 12)
+- **Livello Passività:** ✅ **VERO PASSIVO** (5-10h/sett dopo mese 12)
 
-## 🎯 Decision
+## 🎯 Decisione
 
 - [ ] GO - Procedere con sviluppo
 - [x] **VALUTA** - Raccomandato SOLO se hai patience + altra income source
 - [ ] SKIP - Non procedere
 
-**Motivo:** Market ENORME (91.5M buyers Etsy 2024) ma SATURATO. Case study real: $6,161 in 4 mesi (nuovo shop, 5-10h/sett). SLOW build (12-18 mesi a €2k). Ma TRUE passive dopo build phase (sell while you sleep, zero support). Midjourney = competitive edge (create in minuti vs ore). **Raccomandazione:** START se hai altra income O combine con client work (hybrid approach).
+**Motivo:** Mercato ENORME (91.5M acquirenti Etsy 2024) ma SATURATO. Caso di studio reale: $6,161 in 4 mesi (nuovo negozio, 5-10h/sett). Costruzione LENTA (12-18 mesi a €2k). Ma VERO passivo dopo fase di costruzione (vendi mentre dormi, zero supporto). Midjourney = vantaggio competitivo (creare in minuti vs ore). **Raccomandazione:** INIZIA se hai altra entrata O combina con lavoro clienti (approccio ibrido).
 
-## 💰 Passive Income Reality Check (DATI REALI)
+## 💰 Verifica Realtà Reddito Passivo (DATI REALI)
 
-### **Case Studies VERIFICATI (2024):**
+### **Casi di Studio VERIFICATI (2024):**
 
 ```yaml
 Case Study #1: New Shop (Agosto 2024)
@@ -129,9 +129,9 @@ Post 24 mesi: MAINTENANCE (5h/settimana)
 - [Marmalead](https://marmalead.com/) - Etsy SEO tool ($19/mese)
 - [Everbe](https://everbe.io/) - Product research ($19.99/mese)
 
-## 💰 Revenue Model (Volume Game)
+## 💰 Modello di Fatturato (Gioco del Volume)
 
-### **Math REALISTICO per €2k/mese:**
+### **Matematica REALISTICA per €2k/mese:**
 
 ```yaml
 Scenario A (Conservative, Mese 18-24):
@@ -208,9 +208,9 @@ Example $8 sale:
 Profit margin: 87%+ (digital product = zero COGS)
 ```
 
-## 🎨 Production Process (Con Midjourney)
+## 🎨 Processo di Produzione (Con Midjourney)
 
-### **Midjourney Advantage:**
+### **Vantaggio Midjourney:**
 
 ```yaml
 Traditional Designer:
@@ -295,7 +295,7 @@ warm neutral tones beige tan, mid-century modern,
 minimalist composition, printable --ar 2:3 --v 6"
 ```
 
-## 🎯 Target Customer (B2C = Lower Prices, High Volume)
+## 🎯 Cliente Target (B2C = Prezzi Bassi, Alto Volume)
 
 ```yaml
 Demographics:
@@ -323,9 +323,9 @@ Pain Points:
 - Customization (can size to their frame)
 ```
 
-## 📈 Path to TRUE Passive Income
+## 📈 Percorso verso VERO Reddito Passivo
 
-### **Why Etsy is MOST Passive (Eventually):**
+### **Perché Etsy è PIÙ Passivo (Eventualmente):**
 
 ```yaml
 vs SaaS:
@@ -353,7 +353,7 @@ vs Chrome Extension:
 Winner for TRUE passive: Etsy (dopo 18-24 mesi, sell 100% on autopilot)
 ```
 
-### **Systems for Maximum Passive:**
+### **Sistemi per Massima Passività:**
 
 ```yaml
 Pinterest Automation (Tailwind):
@@ -507,7 +507,7 @@ Challenge #5: LOW Pricing Power (Race to Bottom)
 
 ---
 
-## 🚀 When to Choose Etsy Printables
+## 🚀 Quando Scegliere Etsy Printables
 
 ```yaml
 CHOOSE ETSY IF:
@@ -526,9 +526,9 @@ SKIP ETSY IF:
 ❌ You hate marketing (Pinterest grind required)
 ```
 
-## 📝 Final Verdict
+## 📝 Verdetto Finale
 
-**Etsy Printables = Best TRUE Passive Income Long-Term**
+**Etsy Printables = Miglior VERO Reddito Passivo Lungo Termine**
 
 **BUT slowest path to €2k/mese (18-24 mesi).**
 

@@ -1,6 +1,6 @@
-# SaaS Email Verification API (Passive Income Focus)
+# SaaS Email Verification API (Focus Reddito Passivo)
 
-## 📊 Quick Stats (DATI REALI VERIFICATI)
+## 📊 Statistiche Rapide (DATI REALI VERIFICATI)
 
 - **ROI Score:** 88/100
 - **Budget Iniziale:** €500-1,000
@@ -8,48 +8,48 @@
 - **Utile Anno 1:** €12,000-36,000
 - **Competizione:** 🟡 Media (competitors profittevoli esistono)
 - **Scalabilità:** ⭐⭐⭐⭐⭐
-- **Passive Level:** ⚠️ Semi-passive (15-20h/sett primi 12 mesi, poi 10-15h)
+- **Livello Passività:** ⚠️ Semi-passivo (15-20h/sett primi 12 mesi, poi 10-15h)
 
-## 🎯 Decision
+## 🎯 Decisione
 
 - [x] **GO** - Procedere con sviluppo
 - [ ] VALUTA - Serve ulteriore ricerca
 - [ ] SKIP - Non procedere
 
-**Motivo:** Market validato (ZeroBounce pricing €18-2,000+/mese, Hunter.io $34-349/mese). Competitor esistenti profittevoli (market proof). B2B SaaS = recurring revenue (MRR growing). Claude Code = build MVP in 4-6 settimane vs 6 mesi traditional. Passive income dopo 12-18 mesi quando customer base stabile.
+**Motivo:** Mercato validato (ZeroBounce prezzi €18-2,000+/mese, Hunter.io $34-349/mese). Competitor esistenti profittevoli (prova di mercato). B2B SaaS = fatturato ricorrente (MRR in crescita). Claude Code = costruire MVP in 4-6 settimane vs 6 mesi tradizionali. Reddito passivo dopo 12-18 mesi quando base clienti stabile.
 
-## 💰 Passive Income Reality Check
+## 💰 Verifica Realtà Reddito Passivo
 
-### **Timeline Onesto:**
+### **Tempistica Onesta:**
 
 ```yaml
-Mesi 1-4: BUILD PHASE (40h/settimana)
-- 0% passive (full-time building)
-- Revenue: €0
-- Effort: Development, testing, docs
+Mesi 1-4: FASE COSTRUZIONE (40h/settimana)
+- 0% passivo (costruzione full-time)
+- Fatturato: €0
+- Sforzo: Sviluppo, testing, documentazione
 
-Mesi 5-9: LAUNCH + TRACTION (30h/settimana)
-- 10% passive (sales automatic ma marketing intensive)
-- Revenue: €200-800/mese
-- Effort: Marketing, support, bug fixes
+Mesi 5-9: LANCIO + TRAZIONE (30h/settimana)
+- 10% passivo (vendite automatiche ma marketing intensivo)
+- Fatturato: €200-800/mese
+- Sforzo: Marketing, supporto, correzione bug
 
-Mesi 10-15: SCALING (25h/settimana)
-- 30% passive (some automated systems)
-- Revenue: €1,500-3,000/mese
-- Effort: Content marketing, partnerships, support
+Mesi 10-15: SCALATA (25h/settimana)
+- 30% passivo (alcuni sistemi automatizzati)
+- Fatturato: €1,500-3,000/mese
+- Sforzo: Marketing contenuti, partnership, supporto
 
-Mesi 16-24: MAINTENANCE (15h/settimana)
-- 60% passive (systems running, churn managed)
-- Revenue: €3,000-6,000/mese
-- Effort: Customer success, feature updates, minor bug fixes
+Mesi 16-24: MANUTENZIONE (15h/settimana)
+- 60% passivo (sistemi funzionanti, churn gestito)
+- Fatturato: €3,000-6,000/mese
+- Sforzo: Successo clienti, aggiornamenti funzionalità, correzioni bug minori
 
-Post 24 mesi: TRUE PASSIVE (10h/settimana)
-- 80% passive (hire VA for support if needed)
-- Revenue: €4,000-10,000+/mese
-- Effort: Strategic only, VA handles day-to-day
+Post 24 mesi: VERO PASSIVO (10h/settimana)
+- 80% passivo (assumere VA per supporto se necessario)
+- Fatturato: €4,000-10,000+/mese
+- Sforzo: Solo strategico, VA gestisce quotidiano
 ```
 
-**Non è "passive da giorno 1", ma DIVENTA passive nel tempo.** MRR recurring = più passive di template sales (one-time).
+**Non è "passivo dal giorno 1", ma DIVENTA passivo nel tempo.** MRR ricorrente = più passivo di vendite template (una tantum).
 
 ## 📁 Documenti
 
@@ -61,99 +61,99 @@ Post 24 mesi: TRUE PASSIVE (10h/settimana)
 6. [Roadmap](06-ROADMAP.md) - 16 settimane MVP + 12 mesi growth
 7. [Resources](07-RESOURCES.md) - APIs, tools, competitor links
 
-## 🔗 Quick Links (COMPETITOR VERIFICATI con PRICING)
+## 🔗 Link Rapidi (COMPETITOR VERIFICATI con PRICING)
 
-### Email Verification APIs (Mercato):
-- [ZeroBounce](https://www.zerobounce.net/) - **€18-2,000+/mese** pricing (2k-10M+ emails)
-- [Hunter.io](https://hunter.io/) - **$34-349/mese** (500-10k+ verifications)
-- [NeverBounce](https://neverbounce.com/) - **$40-400/mese** typical range
+### API Verifica Email (Mercato):
+- [ZeroBounce](https://www.zerobounce.net/) - **€18-2,000+/mese** prezzi (2k-10M+ email)
+- [Hunter.io](https://hunter.io/) - **$34-349/mese** (500-10k+ verifiche)
+- [NeverBounce](https://neverbounce.com/) - **$40-400/mese** range tipico
 - [AbstractAPI](https://www.abstractapi.com/email-verification-api) - **$19-399/mese**
 
-### Mercato Size Indicators:
-- Email marketing industry: **$9.62B (2024)**, growing 13.3% CAGR
-- Email validation market: **$570M (2024)** subset
-- 347.3 billion emails sent/received daily (2024)
-- 20-30% invalid email rate (industry avg) = massive TAM
+### Indicatori Dimensione Mercato:
+- Industria email marketing: **$9.62B (2024)**, crescita 13.3% CAGR
+- Mercato validazione email: **$570M (2024)** sottoinsieme
+- 347.3 miliardi email inviate/ricevute giornalmente (2024)
+- 20-30% tasso email invalide (media industria) = TAM enorme
 
-## 💰 Revenue Model (RECURRING = PASSIVE)
+## 💰 Modello di Fatturato (RICORRENTE = PASSIVO)
 
-### Why SaaS is More Passive than One-Time Sales:
+### Perché SaaS è Più Passivo delle Vendite Una Tantum:
 
 ```yaml
-Template Sales (one-time):
-- €199 sale oggi
-- €0 revenue domani (need new customer)
-- Passive level: 50% (sell once, no recurring)
+Vendite Template (una tantum):
+- €199 vendita oggi
+- €0 fatturato domani (serve nuovo cliente)
+- Livello passività: 50% (vendi una volta, non ricorrente)
 
-SaaS Subscriptions (recurring):
-- €40/mese sale oggi
-- €40/mese recurring (finché non churn)
-- Passive level: 80% (compound revenue)
+Abbonamenti SaaS (ricorrenti):
+- €40/mese vendita oggi
+- €40/mese ricorrente (finché non churn)
+- Livello passività: 80% (fatturato composto)
 
-Example:
-Mese 1: 10 customers × €40 = €400 MRR
-Mese 2: 10 existing + 10 new = 20 × €40 = €800 MRR
-Mese 3: 18 retained + 12 new = 30 × €40 = €1,200 MRR
-Mese 6: 45 customers × €40 = €1,800 MRR (churn 10%/mese)
-Mese 12: 80 customers × €40 = €3,200 MRR ✅
+Esempio:
+Mese 1: 10 clienti × €40 = €400 MRR
+Mese 2: 10 esistenti + 10 nuovi = 20 × €40 = €800 MRR
+Mese 3: 18 mantenuti + 12 nuovi = 30 × €40 = €1,200 MRR
+Mese 6: 45 clienti × €40 = €1,800 MRR (churn 10%/mese)
+Mese 12: 80 clienti × €40 = €3,200 MRR ✅
 
-COMPOUNDING = True passive income
+COMPOSTO = Vero reddito passivo
 ```
 
-### Pricing Strategy (Validato da Competitor):
+### Strategia Prezzi (Validato da Competitor):
 
 ```yaml
-Free Tier: 100 credits/mese
-- Lead magnet (conversion to paid)
-- Test API, see value
-- Credit card NOT required (low friction)
+Tier Gratuito: 100 crediti/mese
+- Magnete lead (conversione a pagamento)
+- Testare API, vedere valore
+- Carta di credito NON richiesta (basso attrito)
 
-Starter: €19/mese (2,000 credits)
-- Solo developers
-- Side projects
-- Low volume validation
+Starter: €19/mese (2,000 crediti)
+- Sviluppatori singoli
+- Progetti paralleli
+- Validazione basso volume
 
-Pro: €49/mese (10,000 credits)
-- Small business
-- Marketing agencies (small)
-- Growing SaaS
+Pro: €49/mese (10,000 crediti)
+- Piccole imprese
+- Agenzie marketing (piccole)
+- SaaS in crescita
 
-Business: €99/mese (50,000 credits)
-- Mid-size companies
-- High-volume senders
+Business: €99/mese (50,000 crediti)
+- Aziende medie
+- Mittenti alto volume
 - Enterprise-lite
 
-Custom: €299+/mese (500k+ credits)
+Personalizzato: €299+/mese (500k+ crediti)
 - Enterprise
-- Email service providers
-- Custom SLA + support
+- Fornitori servizi email
+- SLA personalizzato + supporto
 ```
 
-### Math to €2k/mese MRR (Realistic):
+### Matematica per €2k/mese MRR (Realistico):
 
 ```yaml
-Scenario A (Volume game):
-50 customers:
+Scenario A (Gioco volume):
+50 clienti:
 - 25 Starter (€19) = €475
 - 20 Pro (€49) = €980
 - 5 Business (€99) = €495
-Total: €1,950 MRR ≈ €2k ✅
+Totale: €1,950 MRR ≈ €2k ✅
 
-Scenario B (Fewer high-value):
-30 customers:
+Scenario B (Meno alto valore):
+30 clienti:
 - 10 Pro (€49) = €490
 - 15 Business (€99) = €1,485
-- 5 Custom (€199 avg) = €995
-Total: €2,970 MRR ✅
+- 5 Personalizzato (€199 media) = €995
+Totale: €2,970 MRR ✅
 
-Timeline to 50 customers:
-- Mese 4-6: 5-10 customers (launch + early traction)
-- Mese 7-9: +15-20 customers (SEO starts, partnerships)
-- Mese 10-12: +15-20 customers (compound growth)
-- Mese 13-15: +10-15 customers (mature marketing)
-Total: 45-65 customers by mese 15 ✅
+Tempistica a 50 clienti:
+- Mese 4-6: 5-10 clienti (lancio + trazione iniziale)
+- Mese 7-9: +15-20 clienti (SEO inizia, partnership)
+- Mese 10-12: +15-20 clienti (crescita composta)
+- Mese 13-15: +10-15 clienti (marketing maturo)
+Totale: 45-65 clienti entro mese 15 ✅
 
-Churn assumption: 10%/mese (need +5-8 new/mese to maintain)
+Assunzione churn: 10%/mese (servono +5-8 nuovi/mese per mantenere)
 ```
 
 ## 🛠️ Tech Stack (Con Claude Code)
@@ -217,7 +217,7 @@ Total: 5-7 settimane (1-1.5 mesi) ✅
 Time saved: 9-14 settimane = 2-3 mesi first-mover advantage
 ```
 
-## 🎯 Target Customer (B2B = Higher Willingness-to-Pay)
+## 🎯 Cliente Target (B2B = Maggiore Disponibilità a Pagare)
 
 ```yaml
 Primary (80% revenue):
@@ -244,9 +244,9 @@ Geography:
 - Avoid: Low-GDP countries (pricing pressure)
 ```
 
-## 📈 Path to Passive Income (ONESTO)
+## 📈 Percorso verso Reddito Passivo (ONESTO)
 
-### Fase 1: BUILDING (Mesi 1-4, 0% Passive)
+### Fase 1: COSTRUZIONE (Mesi 1-4, 0% Passivo)
 
 ```yaml
 Effort: 40h/settimana
@@ -360,7 +360,7 @@ Exit Option:
 - Valuation: €288k-480k potential sale ✅
 ```
 
-## ✅ Why This is "Passive Income" (Eventually)
+## ✅ Perché Questo è "Reddito Passivo" (Eventualmente)
 
 ```yaml
 Recurring Revenue (vs One-Time):
@@ -387,7 +387,7 @@ Time Freedom:
 ✅ Hire VA: 5-10h/settimana (delegated)
 ```
 
-## ⚠️ Passive Income Myths (Be Realistic)
+## ⚠️ Miti Reddito Passivo (Sii Realistico)
 
 ```yaml
 MYTH: "Set and forget, earn while you sleep da giorno 1"
@@ -406,7 +406,7 @@ MYTH: "Passive = zero work"
 REALITY: Passive = not trading time for money directly. Ma maintenance sempre serve.
 ```
 
-## 🚀 Why This vs Other Passive Income Streams
+## 🚀 Perché Questo vs Altri Flussi Reddito Passivo
 
 ```yaml
 vs Template Marketplace:

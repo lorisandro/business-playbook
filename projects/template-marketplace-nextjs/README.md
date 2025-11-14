@@ -1,6 +1,6 @@
 # Next.js SaaS Template Marketplace (Modello ShipFast)
 
-## 📊 Quick Stats (DATI REALI VERIFICATI)
+## 📊 Statistiche Rapide (DATI REALI VERIFICATI)
 
 - **ROI Score:** 92/100
 - **Budget Iniziale:** €300-500
@@ -8,15 +8,15 @@
 - **Utile Anno 1:** €20,000-80,000
 - **Competizione:** 🟡 Media (ma differentiation possibile)
 - **Scalabilità:** ⭐⭐⭐⭐⭐
-- **Passive Level:** ⚠️ Semi-passive (10-15h/sett maintenance)
+- **Livello Passività:** ⚠️ Semi-passivo (10-15h/sett manutenzione)
 
-## 🎯 Decision
+## 🎯 Decisione
 
 - [x] **GO** - Procedere con sviluppo
 - [ ] VALUTA - Serve ulteriore ricerca
 - [ ] SKIP - Non procedere
 
-**Motivo:** Case study verificato (ShipFast di Marc Lou): $133k/mese run rate, 91% profit margin, 1,851 customers. Market validato con proof concreto. Template una volta creato vende infinite volte. Claude Code = competitive advantage massive (build in 4-6 settimane vs 3-6 mesi traditional).
+**Motivo:** Caso di studio verificato (ShipFast di Marc Lou): $133k/mese tasso di crescita, 91% margine di profitto, 1,851 clienti. Mercato validato con prova concreta. Template una volta creato vende infinite volte. Claude Code = vantaggio competitivo enorme (costruzione in 4-6 settimane vs 3-6 mesi tradizionali).
 
 ## 📁 Documenti
 
@@ -28,46 +28,46 @@
 6. [Roadmap](06-ROADMAP.md) - Timeline 90 giorni + 12 mesi
 7. [Resources](07-RESOURCES.md) - Tools, link, community, learning
 
-## 🔗 Quick Links (COMPETITOR VERIFICATI)
+## 🔗 Link Rapidi (COMPETITOR VERIFICATI)
 
-### Top Competitor con Revenue Pubblico:
+### Top Competitor con Fatturato Pubblico:
 - [ShipFast](https://shipfa.st/) - **$133k/mese** (April 2024, verified)
 - [Divjoy](https://divjoy.com/) - **$249** pricing (revenue non public ma stabile)
 - [SaaSBold](https://saasbold.com/) - **$149** pricing
 - [Shipixen](https://shipixen.com/) - **$97** pricing
 - [SupaStarter](https://supastarter.dev/) - **€299** pricing
 
-### Case Study Dettagliato:
-- [Marc Lou - How $528K in 4 Months](https://www.starterstory.com/marc-lou-shipfast)
-- [ShipFast Revenue Breakdown](https://www.builderkit.ai/blog/marc-lous-shipfast-story)
+### Caso di Studio Dettagliato:
+- [Marc Lou - Come $528K in 4 Mesi](https://www.starterstory.com/marc-lou-shipfast)
+- [Dettaglio Fatturato ShipFast](https://www.builderkit.ai/blog/marc-lous-shipfast-story)
 
-## 💰 Revenue Potential REALISTICO
+## 💰 Potenziale di Fatturato REALISTICO
 
 ### Scenario Conservativo (12 mesi):
 ```
-Mese 1-2: €0 (build phase)
-Mese 3: €1,200 (launch, 8 sales × €150)
-Mese 4-6: €2,500/mese avg (15 sales × €170)
-Mese 7-9: €3,500/mese avg (20 sales × €175)
-Mese 10-12: €4,500/mese avg (25 sales × €180)
+Mese 1-2: €0 (fase di costruzione)
+Mese 3: €1,200 (lancio, 8 vendite × €150)
+Mese 4-6: €2,500/mese media (15 vendite × €170)
+Mese 7-9: €3,500/mese media (20 vendite × €175)
+Mese 10-12: €4,500/mese media (25 vendite × €180)
 
-Total Anno 1: €32,400
-Profit (dopo fees/costs): €28,000
+Totale Anno 1: €32,400
+Profitto (dopo commissioni/costi): €28,000
 ```
 
 ### Scenario Ottimistico (stile Marc Lou):
 ```
-Launch virale Product Hunt + build-in-public audience:
-Mese 1: €5,000 (launch spike)
+Lancio virale Product Hunt + pubblico costruito pubblicamente:
+Mese 1: €5,000 (picco di lancio)
 Mese 3: €10,000 (Product Hunt + referral)
 Mese 6: €20,000/mese
 Mese 12: €40,000+/mese
 
-Total Anno 1: €180,000+
-Profit: €160,000+ (91% margin)
+Totale Anno 1: €180,000+
+Profitto: €160,000+ (91% margine)
 ```
 
-**Realità Probabile:** Tra i due scenari. Con marketing solido: €40k-80k anno 1.
+**Realtà Probabile:** Tra i due scenari. Con marketing solido: €40k-80k anno 1.
 
 ## 🛠️ Tech Stack (Con Claude Code)
 
@@ -79,126 +79,126 @@ Template Include:
 - Stripe (payments + subscriptions)
 - Resend/SendGrid (email)
 - Vercel deployment config
-- SEO optimized
+- SEO ottimizzato
 - Analytics (PostHog/Plausible)
-- Landing page templates (5+ variants)
-- Dashboard UI components
-- Documentation completa
+- Modelli landing page (5+ varianti)
+- Componenti UI dashboard
+- Documentazione completa
 
-Build Time con Claude Code: 4-6 settimane
-(vs 3-6 mesi se build manuale senza AI)
+Tempo Costruzione con Claude Code: 4-6 settimane
+(vs 3-6 mesi se costruzione manuale senza AI)
 ```
 
-## 🎯 Target Customer
+## 🎯 Cliente Target
 
 ```yaml
-Primary:
-- Indie hackers (vuole launch SaaS veloce)
-- Solo developers (skill medio, no time build from scratch)
-- Startup founders (technical, budget <€5k development)
-- Side project builders (weekend warriors)
+Primario:
+- Indie hackers (vuole lanciare SaaS velocemente)
+- Sviluppatori solitari (competenze medie, niente tempo per costruire da zero)
+- Fondatori startup (tecnici, budget <€5k sviluppo)
+- Costruttori progetti paralleli (guerrieri del weekend)
 
-Willingness to Pay: Alta (€79-299)
-Why: Time saved = €5k-20k (vs hire developer)
+Disponibilità a Pagare: Alta (€79-299)
+Perché: Tempo risparmiato = €5k-20k (vs assumere sviluppatore)
 
-Customer Avatar:
+Avatar Cliente:
 - Età: 25-45
-- Background: Developer, designer, product manager
-- Goal: Launch SaaS in settimane (not months)
-- Pain: Development slow, costly, complex
+- Background: Sviluppatore, designer, product manager
+- Obiettivo: Lanciare SaaS in settimane (non mesi)
+- Problema: Sviluppo lento, costoso, complesso
 ```
 
-## 📈 Growth Trajectory
+## 📈 Traiettoria di Crescita
 
 ```yaml
-FASE 1 (Mese 1-3): BUILD + LAUNCH
-- Build template: 4-6 settimane
-- Marketing assets: 1-2 settimane
-- Product Hunt launch
-- Goal: 30-50 sales = €4,500-7,500
+FASE 1 (Mese 1-3): COSTRUZIONE + LANCIO
+- Costruire template: 4-6 settimane
+- Asset marketing: 1-2 settimane
+- Lancio Product Hunt
+- Obiettivo: 30-50 vendite = €4,500-7,500
 
-FASE 2 (Mese 4-6): TRACTION
-- Content marketing (blog, Twitter/X)
-- SEO optimization
-- Customer testimonials
-- Affiliate program
-- Goal: 15-20 sales/mese = €2,500-3,500/mese
+FASE 2 (Mese 4-6): TRAZIONE
+- Marketing contenuti (blog, Twitter/X)
+- Ottimizzazione SEO
+- Testimonianze clienti
+- Programma affiliazione
+- Obiettivo: 15-20 vendite/mese = €2,500-3,500/mese
 
-FASE 3 (Mese 7-12): SCALING
-- Multiple template variants
-- Upsells (custom support, consulting)
-- Partnerships (YouTube creators, courses)
-- Paid ads test
-- Goal: €4,000-8,000/mese sustainable
+FASE 3 (Mese 7-12): SCALATA
+- Varianti template multiple
+- Upsell (supporto personalizzato, consulenza)
+- Partnership (creatori YouTube, corsi)
+- Test pubblicità a pagamento
+- Obiettivo: €4,000-8,000/mese sostenibile
 
-FASE 4 (Anno 2): OPTIMIZATION
-- Maintenance (dependencies updates)
-- Customer support (Discord, email)
-- New templates (1-2 per quarter)
-- Potential: €8,000-15,000/mese
+FASE 4 (Anno 2): OTTIMIZZAZIONE
+- Manutenzione (aggiornamenti dipendenze)
+- Supporto clienti (Discord, email)
+- Nuovi template (1-2 per trimestre)
+- Potenziale: €8,000-15,000/mese
 ```
 
-## ✅ Success Factors
+## ✅ Fattori di Successo
 
 ```yaml
-MUST HAVE:
-✅ Template DEVE save time (demo show "built in 1 day")
-✅ Documentation crystal clear (non-technical può usare)
-✅ Design modern (not dated in 6 mesi)
-✅ Code quality (TypeScript, best practices)
-✅ Support responsive (<24h response)
+INDISPENSABILE:
+✅ Template DEVE risparmiare tempo (demo mostra "costruito in 1 giorno")
+✅ Documentazione cristallina (non-tecnici possono usare)
+✅ Design moderno (non datato in 6 mesi)
+✅ Qualità codice (TypeScript, best practices)
+✅ Supporto reattivo (<24h risposta)
 
-NICE TO HAVE:
-- Video tutorials
-- Discord community
-- Custom development (upsell)
-- Lifetime updates (selling point)
+BELLO DA AVERE:
+- Tutorial video
+- Community Discord
+- Sviluppo personalizzato (upsell)
+- Aggiornamenti a vita (punto di vendita)
 ```
 
-## ⚠️ Risks & Mitigation
+## ⚠️ Rischi e Mitigazione
 
 ```yaml
-Risk 1: Market saturato (many templates exist)
-Mitigation: Differentiation (better docs, better design, better support)
-           + Build in public (audience pre-launch)
+Rischio 1: Mercato saturato (molti template esistono)
+Mitigazione: Differenziazione (migliori docs, miglior design, miglior supporto)
+            + Costruire in pubblico (pubblico pre-lancio)
 
-Risk 2: Tech stack changes (Next.js updates)
-Mitigation: Monthly maintenance updates (factor in 10-15h/mese)
-           + Charge for updates dopo 12 mesi (upsell)
+Rischio 2: Cambiamenti tech stack (aggiornamenti Next.js)
+Mitigazione: Aggiornamenti manutenzione mensili (fattore in 10-15h/mese)
+            + Addebitare per aggiornamenti dopo 12 mesi (upsell)
 
-Risk 3: One-time payment (not recurring)
-Mitigation: Upsell: consulting €200-500/call
-           + Premium support €49/mese
-           + New templates (cross-sell)
+Rischio 3: Pagamento una tantum (non ricorrente)
+Mitigazione: Upsell: consulenza €200-500/chiamata
+            + Supporto premium €49/mese
+            + Nuovi template (cross-sell)
 
-Risk 4: Piracy (code can be shared)
-Mitigation: License key system (gumroad built-in)
-           + Value-add: private Discord, updates, support
-           + Not preventable 100%, but minimize
+Rischio 4: Pirateria (codice può essere condiviso)
+Mitigazione: Sistema chiavi licenza (gumroad integrato)
+            + Valore aggiunto: Discord privato, aggiornamenti, supporto
+            + Non prevenibile 100%, ma minimizzare
 ```
 
-## 🚀 Why This vs Other Passive Income
+## 🚀 Perché Questo vs Altre Entrate Passive
 
 ```yaml
 vs SaaS Micro:
-✅ Faster to €2k (4-8 mesi vs 6-12)
-✅ No customer support intensivo (self-service)
-✅ Higher per-sale revenue (€150 vs €20-50/mese)
-❌ Not recurring (one-time payment)
+✅ Più veloce a €2k (4-8 mesi vs 6-12)
+✅ Nessun supporto clienti intensivo (self-service)
+✅ Maggiore fatturato per vendita (€150 vs €20-50/mese)
+❌ Non ricorrente (pagamento una tantum)
 
 vs Etsy Printables:
-✅ Much higher pricing (€150 vs €5)
-✅ Faster to €2k (need 15 sales/mese vs 400)
-✅ Less saturated (technical barrier)
-✅ Better customers (B2B vs B2C)
+✅ Prezzi molto più alti (€150 vs €5)
+✅ Più veloce a €2k (servono 15 vendite/mese vs 400)
+✅ Meno saturato (barriera tecnica)
+✅ Clienti migliori (B2B vs B2C)
 
 vs Chrome Extension:
-✅ Better pricing power (€150-299 vs €29-49)
-✅ Less platform risk (own site vs Chrome Store)
-✅ Higher perceived value (complete boilerplate)
-≈ Similar dev time (4-6 settimane both)
+✅ Miglior potere di prezzo (€150-299 vs €29-49)
+✅ Meno rischio piattaforma (sito proprio vs Chrome Store)
+✅ Maggior valore percepito (boilerplate completo)
+≈ Tempo sviluppo simile (4-6 settimane entrambi)
 
-Winner: Template Marketplace per speed + profit potential
+Vincitore: Template Marketplace per velocità + potenziale profitto
 ```
 
 ## 🛠️ Strumenti e Piattaforme (LINK DIRETTI)
@@ -238,19 +238,19 @@ Winner: Template Marketplace per speed + profit potential
 
 **Perché Questo Progetto È TOP:**
 
-1. **Case Study Verificato:** Marc Lou (ShipFast) ha fatto $528k in 4 mesi, $133k/mese run rate in April 2024. Questo non è teoria, è PROOF con numeri pubblici.
+1. **Caso di Studio Verificato:** Marc Lou (ShipFast) ha fatto $528k in 4 mesi, $133k/mese tasso di crescita in Aprile 2024. Questo non è teoria, è PROVA con numeri pubblici.
 
-2. **Claude Code Advantage:** Build template in 4-6 settimane vs 3-6 mesi traditional. First-mover advantage se esegui veloce.
+2. **Vantaggio Claude Code:** Costruire template in 4-6 settimane vs 3-6 mesi tradizionali. Vantaggio del primo arrivato se esegui velocemente.
 
-3. **High Margin:** 91-92% profit margin (Marc Lou verified). Costs: solo Gumroad 10% fee + Stripe 2.9%.
+3. **Margine Alto:** 91-92% margine di profitto (Marc Lou verificato). Costi: solo Gumroad 10% commissione + Stripe 2.9%.
 
-4. **Scalabile:** Sell infinito senza inventory. 1 customer = same effort di 1,000 customers.
+4. **Scalabile:** Vendere infinito senza inventario. 1 cliente = stesso sforzo di 1,000 clienti.
 
-5. **Market Demand:** Indie hackers sempre cercano "faster way to launch". TAM growing (200k+ indie hackers worldwide).
+5. **Domanda di Mercato:** Indie hackers cercano sempre "modo più veloce per lanciare". TAM in crescita (200k+ indie hackers nel mondo).
 
-6. **Exit Potential:** Se raggiungi €10k/mese, potential buyer acquista 3-5x annual revenue = €360k-600k exit.
+6. **Potenziale di Uscita:** Se raggiungi €10k/mese, potenziale acquirente compra 3-5x fatturato annuale = €360k-600k uscita.
 
-**Next Step:** See detailed [Roadmap](06-ROADMAP.md) per execution plan week-by-week.
+**Prossimo Passo:** Vedi [Roadmap](06-ROADMAP.md) dettagliata per piano di esecuzione settimana per settimana.
 
 ---
 
