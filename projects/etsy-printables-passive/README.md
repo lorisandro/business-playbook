@@ -471,6 +471,42 @@ Challenge #5: LOW Pricing Power (Race to Bottom)
 → Volume game, not premium pricing
 ```
 
+---
+
+## 🛠️ Tools & Platforms (LINK DIRETTI)
+
+### AI Generation:
+- **[Midjourney](https://midjourney.com/)** - AI image generation (€30/mese Standard, €60 Pro)
+- **[Discord](https://discord.com/)** - Access Midjourney (free)
+
+### Design & Layout:
+- **[Canva Pro](https://www.canva.com/pro/)** - Text overlay, mockups (€12/mese)
+- **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** - Advanced editing (€25/mese)
+- **[Photopea](https://www.photopea.com/)** - Free Photoshop alternative (browser-based)
+
+### Marketplace:
+- **[Etsy](https://www.etsy.com/)** - Primary platform (6.5% + 3% fees)
+- **[Etsy Seller Dashboard](https://www.etsy.com/sell)** - Upload & manage listings
+
+### Research Tools:
+- **[eRank](https://erank.com/)** - Keyword research, competitor analysis (€6/mese Pro)
+- **[Marmalead](https://marmalead.com/)** - Etsy SEO tool (€19/mese)
+- **[Everbe](https://everbe.io/)** - Product research (€20/mese)
+
+### Marketing:
+- **[Pinterest](https://www.pinterest.com/)** - Primary traffic source (free)
+- **[Tailwind](https://www.tailwindapp.com/)** - Pinterest automation (€10-15/mese)
+
+### Mockups:
+- **[Placeit](https://placeit.net/)** - Room setting mockups (€15/mese)
+- **[Smartmockups](https://smartmockups.com/)** - Frame mockups (free tier)
+
+### Learning:
+- **[Growing Your Craft Blog](https://www.growingyourcraft.com/blog/)** - Etsy seller tips
+- **[r/EtsySellers](https://www.reddit.com/r/EtsySellers/)** - Reddit community
+
+---
+
 ## 🚀 When to Choose Etsy Printables
 
 ```yaml

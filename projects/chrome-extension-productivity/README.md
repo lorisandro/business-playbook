@@ -395,6 +395,38 @@ Risk #4: Low Pricing Power (vs SaaS)
 - Mitigation: Target B2B niches (higher willingness-to-pay)
 ```
 
+---
+
+## 🛠️ Tools & Platforms (LINK DIRETTI)
+
+### Development:
+- **[Claude Code](https://claude.ai/code)** - AI coding assistant (€20/mese Pro)
+- **[Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/)** - Official docs
+- **[Manifest V3 Guide](https://developer.chrome.com/docs/extensions/mv3/intro/)** - Latest version
+
+### UI/Design:
+- **[Tailwind CSS](https://tailwindcss.com/)** - Styling
+- **[Vite](https://vitejs.dev/)** - Build tool (optional, per React extensions)
+
+### Monetization:
+- **[ExtensionPay](https://extensionpay.com/)** - Payment handling (Stripe integration)
+- **[Gumroad](https://gumroad.com/)** - License key alternative
+- **[Stripe](https://stripe.com/)** - Direct payment processing
+
+### Distribution:
+- **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions)** - Official store
+- **Chrome Developer Dashboard** - Submission & analytics ($5 one-time fee)
+
+### Competitor Research:
+- **[ExtensionPay Blog](https://extensionpay.com/articles/browser-extensions-make-money)** - Revenue case studies
+- **[Chrome Web Store Stats](https://chrome-stats.com/)** - Extension analytics
+
+### Marketing:
+- **[Product Hunt](https://www.producthunt.com/)** - Launch platform
+- **[Indie Hackers](https://www.indiehackers.com/)** - Community
+
+---
+
 ## 📝 Final Verdict
 
 **Chrome Extension = Good Middle Ground for Passive Income**

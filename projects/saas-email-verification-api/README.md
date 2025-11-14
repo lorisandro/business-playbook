@@ -435,6 +435,42 @@ vs Chrome Extension:
 Winner: SaaS per long-term passive income (recurring revenue compounds)
 ```
 
+---
+
+## 🛠️ Tools & Platforms (LINK DIRETTI)
+
+### Development:
+- **[Claude Code](https://claude.ai/code)** - AI coding assistant (€20/mese Pro)
+- **[Next.js](https://nextjs.org/)** - API routes + dashboard
+- **[TypeScript](https://www.typescriptlang.org/)** - Type safety
+
+### Backend & Database:
+- **[Supabase](https://supabase.com/)** - PostgreSQL + Auth (free tier)
+- **[Upstash Redis](https://upstash.com/)** - Rate limiting
+- **[Vercel](https://vercel.com/)** - API hosting (serverless)
+
+### Payments:
+- **[Stripe](https://stripe.com/)** - Subscriptions + webhooks
+
+### Email Services:
+- **[Resend](https://resend.com/)** - Transactional emails
+- **[Postmark](https://postmarkapp.com/)** - Email delivery (alternativo)
+
+### Monitoring:
+- **[Sentry](https://sentry.io/)** - Error tracking
+- **[Plausible](https://plausible.io/)** - Web analytics
+
+### Competitor Research:
+- **[ZeroBounce](https://www.zerobounce.net/)** - Competitor pricing reference
+- **[Hunter.io](https://hunter.io/)** - Market leader analysis
+- **[NeverBounce](https://neverbounce.com/)** - Alternative competitor
+
+### Marketing:
+- **[Product Hunt](https://www.producthunt.com/)** - Launch platform
+- **[Indie Hackers](https://www.indiehackers.com/)** - SaaS community
+
+---
+
 ## 📝 Note
 
 **Perché SaaS è Best Long-Term Passive:**

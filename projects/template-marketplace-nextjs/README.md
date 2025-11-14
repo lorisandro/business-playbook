@@ -201,6 +201,39 @@ vs Chrome Extension:
 Winner: Template Marketplace per speed + profit potential
 ```
 
+## 🛠️ Tools & Platforms (LINK DIRETTI)
+
+### Development Tools:
+- **[Claude Code](https://claude.ai/code)** - AI coding assistant (€20/mese Pro)
+- **[Next.js](https://nextjs.org/)** - React framework
+- **[TypeScript](https://www.typescriptlang.org/)** - Type safety
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS
+- **[Shadcn/ui](https://ui.shadcn.com/)** - Component library
+
+### Backend & Infrastructure:
+- **[Supabase](https://supabase.com/)** - Database + Auth (free tier generoso)
+- **[Vercel](https://vercel.com/)** - Hosting & deployment (free tier)
+- **[Upstash Redis](https://upstash.com/)** - Rate limiting
+
+### Payments & Monetization:
+- **[Stripe](https://stripe.com/)** - Payment processing
+- **[Gumroad](https://gumroad.com/)** - Digital product sales (10% fee)
+
+### Email:
+- **[Resend](https://resend.com/)** - Transactional emails
+- **[SendGrid](https://sendgrid.com/)** - Email service alternativo
+
+### Analytics:
+- **[PostHog](https://posthog.com/)** - Product analytics
+- **[Plausible](https://plausible.io/)** - Privacy-focused analytics
+
+### Marketing:
+- **[Product Hunt](https://www.producthunt.com/)** - Launch platform
+- **[Indie Hackers](https://www.indiehackers.com/)** - Community
+- **[Twitter/X](https://twitter.com/)** - Build in public
+
+---
+
 ## 📝 Note
 
 **Perché Questo Progetto È TOP:**
