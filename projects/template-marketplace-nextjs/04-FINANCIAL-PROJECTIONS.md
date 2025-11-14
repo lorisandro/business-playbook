@@ -6,7 +6,7 @@
 
 ---
 
-## 💰 INVESTMENT BREAKDOWN (ANNO 1)
+## 💰 RIPARTIZIONE INVESTIMENTO (ANNO 1)
 
 ### Setup Costs (One-Time)
 
@@ -18,11 +18,11 @@ Development Tools:
 - Figma Pro (optional): €12/mese × 2 = €24
 Total Setup: €139
 
-Marketing Assets:
-- Video editing software (ScreenFlow/Camtasia): €100 (one-time)
-- Microphone (decent USB): €80
-- Screen recording: Loom free O included software
-Total Marketing Assets: €180
+Risorse Marketing:
+- Software editing video (ScreenFlow/Camtasia): €100 (una tantum)
+- Microfono (USB decente): €80
+- Registrazione schermo: Loom gratuito O software incluso
+Totale Risorse Marketing: €180
 
 Legal/Business:
 - LLC/Business registration: €0-500 (depending on country, optional year 1)
@@ -73,7 +73,7 @@ Example €199 sale (realistic pricing):
 
 ---
 
-## 📊 REVENUE PROJECTIONS (24 MESI)
+## 📊 PROIEZIONI FATTURATO (24 MESI)
 
 ### Scenario A: CONSERVATIVE (Probabilità: 60%)
 
@@ -84,15 +84,15 @@ Example €199 sale (realistic pricing):
 - Word-of-mouth + SEO only
 
 ```yaml
-MESE 1-2: BUILD PHASE
-- Revenue: €0
-- Effort: 40h/settimana development
-- Costs: €120 (tools)
+MESE 1-2: FASE COSTRUZIONE
+- Fatturato: €0
+- Impegno: 40h/settimana sviluppo
+- Costi: €120 (strumenti)
 
-MESE 3: LAUNCH (Product Hunt + Indie Hackers)
-- Sales: 8 × €149 = €1,192
-- Fees (13%): -€155
-- Net Revenue: €1,037
+MESE 3: LANCIO (Product Hunt + Indie Hackers)
+- Vendite: 8 × €149 = €1,192
+- Commissioni (13%): -€155
+- Fatturato Netto: €1,037
 - Costs: €50
 - Profit: €987
 - Cumulative: €987
@@ -133,7 +133,7 @@ ANNO 2 (Mesi 13-24, avg per mese):
 - Cumulative 12 mesi: €42,816
 
 TOTAL 24 MESI:
-- Gross Revenue: €76,920
+- Fatturato Lordo: €76,920
 - Net after fees: €66,887
 - Total Costs: -€1,519
 - PROFIT: €65,368
@@ -148,7 +148,7 @@ TOTAL 24 MESI:
 **Assumptions:**
 - Good Product Hunt launch (Top 5 of day)
 - Active build-in-public (5k-15k followers by mese 6)
-- Some paid marketing (€300-500/mese after break-even)
+- Un po' di marketing a pagamento (€300-500/mese dopo pareggio)
 - Affiliate program working (20% sales da affiliates)
 
 ```yaml
@@ -198,7 +198,7 @@ ANNO 2 (Mesi 13-24, avg):
 - Profit: €9,903/mese × 12 = €118,836
 
 TOTAL 24 MESI:
-- Gross Revenue: €232,965
+- Fatturato Lordo: €232,965
 - Net after fees: €202,588
 - Total Costs: -€27,240
 - PROFIT: €175,348
@@ -280,7 +280,7 @@ TOTAL 24 MESI: €714,925 profit
 | Metric | Conservative | Realistic | Optimistic |
 |--------|--------------|-----------|------------|
 | **Investment Total** | €1,519 | €27,559 | €45,120 |
-| **Year 1 Revenue** | €24,357 | €70,234 | €304,900 |
+| **Fatturato Anno 1** | €24,357 | €70,234 | €304,900 |
 | **Year 1 Profit** | €20,541 | €56,324 | €259,093 |
 | **Year 2 Profit** | €42,816 | €118,836 | €455,832 |
 | **Total Profit (24mo)** | €65,368 | €175,348 | €714,925 |
@@ -304,7 +304,7 @@ Time to break-even: 3 mesi ✅
 Investment: €319 + €600 ongoing = €919 (primi 6 mesi)
 Break-even: Mese 3 (€3,191 profit)
 Time to break-even: 3 mesi ✅
-Paid ads ROI positive: Mese 7 (€7,160 revenue > €450 ad spend)
+ROI ads a pagamento positivo: Mese 7 (€7,160 fatturato > €450 spesa ads)
 ```
 
 ### Critical Numbers:
@@ -342,7 +342,7 @@ Recommendation: Start €149, increase to €199 after 50 sales (social proof)
 
 ---
 
-## 💡 REVENUE OPTIMIZATION STRATEGIES
+## 💡 STRATEGIE OTTIMIZZAZIONE FATTURATO
 
 ### 1. Pricing Tiers (Increase Average Order Value)
 
@@ -357,7 +357,7 @@ With tiers:
 
 Weighted AOV: (0.2 × 79) + (0.6 × 199) + (0.2 × 299) = €195.00
 
-Revenue increase: 31% ✅
+Aumento fatturato: 31% ✅
 
 Implementation cost: 2 giorni (Gumroad multi-tier setup)
 ```
@@ -372,7 +372,7 @@ Upsell offers (via email sequence):
 - Priority support (1 mese): +€29 (attach rate: 15%)
 - Custom setup call (1h): +€199 (attach rate: 5%)
 
-Average upsell revenue per customer:
+Fatturato upsell medio per cliente:
 (0.20 × 49) + (0.15 × 29) + (0.05 × 199) = €24.20
 
 New AOV: €199 + €24.20 = €223.20
@@ -391,11 +391,11 @@ Active: 50% (10 affiliates actually promote)
 Sales per affiliate/mese: 2-5
 
 Additional sales/mese: 10 × 3 = 30 sales
-Revenue: 30 × €199 = €5,970/mese
+Fatturato: 30 × €199 = €5,970/mese
 Your cut (60%): €3,582/mese
 Affiliate payout: €2,388/mese (Gumroad handles automatic)
 
-ROI: Infinite (affiliates do marketing, you pay only on results)
+ROI: Infinito (affiliati fanno marketing, tu paghi solo sui risultati)
 
 Implementation: Gumroad affiliate dashboard (built-in, free)
 ```
@@ -455,8 +455,8 @@ Conservative: €3,500-4,500/mese profit
 Realistic: €9,000-12,000/mese profit
 Optimistic: €35,000-50,000/mese profit
 
-Exit opportunity: If €10k/mese × 12 = €120k/anno
-Valuation: 3-5x = €360k-600k potential sale
+Opportunità uscita: Se €10k/mese × 12 = €120k/anno
+Valutazione: 3-5x = €360k-600k vendita potenziale
 
 OR continue building empire (multiple products)
 ```
