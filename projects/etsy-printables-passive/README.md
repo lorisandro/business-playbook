@@ -82,19 +82,19 @@ Mesi 13-18: MOMENTUM (20h/settimana)
 - Revenue: €1,000-2,000/mese
 - Passive: 50% (create 2-3h/sett, rest automatic)
 
-Mesi 19-24: MATURE PASSIVE (10h/settimana)
-- 600-800 listings (catalog saturated)
-- New designs: 10-20/mese only (keep fresh)
-- Customer service: 2-3h/sett (messages/reviews)
-- Sales: 150-300 sales/mese
-- Revenue: €2,000-4,000/mese ✅
-- Passive: 80% (TRUE passive - sell while sleep)
+Mesi 19-24: MATURITÀ PASSIVA (10h/settimana)
+- 600-800 inserzioni (catalogo saturato)
+- Nuovi design: 10-20/mese solo (mantenere fresco)
+- Servizio clienti: 2-3h/sett (messaggi/recensioni)
+- Vendite: 150-300 vendite/mese
+- Fatturato: €2,000-4,000/mese ✅
+- Passivo: 80% (VERO passivo - vendi mentre dormi)
 
-Post 24 mesi: MAINTENANCE (5h/settimana)
-- New designs: seasonal only
-- Respond messages: 1-2h/sett
-- Revenue: €2,500-5,000/mese
-- Passive: 90% (almost zero work)
+Post 24 mesi: MANUTENZIONE (5h/settimana)
+- Nuovi design: solo stagionali
+- Rispondere messaggi: 1-2h/sett
+- Fatturato: €2,500-5,000/mese
+- Passivo: 90% (quasi zero lavoro)
 ```
 
 **Verità Brutale:** Primi 12 mesi = DURO LAVORO per €500-1,000/mese. NON "arricchirsi velocemente". Ma dopo 18-24 mesi = vero passivo.
@@ -382,55 +382,55 @@ Seasonal Batching:
 - Result: Sales spike during holidays, you're on vacation ✅
 ```
 
-### **Post-24 Mesi Maintenance (5h/settimana):**
+### **Post-24 Mesi Manutenzione (5h/settimana):**
 
 ```yaml
-Monday (2h):
-- Check sales dashboard (spot trends)
-- Respond Etsy messages (3-5/settimana typical)
-- Check Pinterest analytics
+Lunedì (2h):
+- Controllare dashboard vendite (individuare tendenze)
+- Rispondere messaggi Etsy (3-5/settimana tipico)
+- Controllare analitica Pinterest
 
-Wednesday (1h):
-- Create 5-10 new designs (keep shop fresh)
-- Upload 5 new listings
+Mercoledì (1h):
+- Creare 5-10 nuovi design (mantenere negozio fresco)
+- Caricare 5 nuove inserzioni
 
-Friday (2h):
-- Optimize underperformers (titles/prices)
-- Review best sellers (create more similar)
-- Financial review (revenue, fees, profit)
+Venerdì (2h):
+- Ottimizzare sottoperformanti (titoli/prezzi)
+- Rivedere best seller (creare più simili)
+- Revisione finanziaria (fatturato, commissioni, profitto)
 
-Total: 5h/settimana (passive level: 90%)
-Revenue: €2,500-5,000/mese
-Effective hourly: €125-250/ora ✅
+Totale: 5h/settimana (livello passività: 90%)
+Fatturato: €2,500-5,000/mese
+Oraria effettiva: €125-250/ora ✅
 ```
 
-## ✅ Why This is TRUE Passive (vs Semi-Passive)
+## ✅ Perché Questo è VERO Passivo (vs Semi-Passivo)
 
 ```yaml
-SaaS (Semi-Passive):
-❌ Customer support ongoing (tickets, emails)
-❌ Bug fixes / updates (tech maintenance)
-❌ Feature requests (development ongoing)
-→ Can't ignore 100% (business dies)
+SaaS (Semi-Passivo):
+❌ Supporto clienti continuo (ticket, email)
+❌ Correzioni bug / aggiornamenti (manutenzione tecnica)
+❌ Richieste funzionalità (sviluppo continuo)
+→ Non puoi ignorare 100% (business muore)
 
-Templates (Semi-Passive):
-❌ Customer questions (setup help, customization)
-❌ Updates needed (dependencies, frameworks change)
-❌ Competition forces price drops (race to bottom)
-→ Maintenance ongoing
+Template (Semi-Passivi):
+❌ Domande clienti (aiuto setup, personalizzazione)
+❌ Aggiornamenti necessari (dipendenze, framework cambiano)
+❌ Competizione forza abbassamento prezzi (corsa al ribasso)
+→ Manutenzione continua
 
-Etsy Printables (TRUE Passive):
-✅ Zero support (digital download = instant, no issues)
-✅ No updates (PDF stays PDF forever)
-✅ Evergreen (designs don't expire)
-✅ Can literally stop working 6 mesi = sales continue ✅
+Stampabili Etsy (VERO Passivo):
+✅ Zero supporto (download digitale = istantaneo, nessun problema)
+✅ Nessun aggiornamento (PDF resta PDF per sempre)
+✅ Sempreverde (design non scadono)
+✅ Puoi letteralmente smettere di lavorare 6 mesi = vendite continuano ✅
 
-Real Example:
-Case Study #2 above: "$700/mese passive DOPO stopped active work"
-= Proof you can abandon shop, still earn (not possible with SaaS/templates)
+Esempio Reale:
+Caso Studio #2 sopra: "$700/mese passivo DOPO aver smesso lavoro attivo"
+= Prova che puoi abbandonare negozio, guadagnare ancora (non possibile con SaaS/template)
 ```
 
-## ⚠️ Brutal Honesty: Challenges
+## ⚠️ Onestà Brutale: Sfide
 
 ```yaml
 Challenge #1: SATURATION (Biggest Issue)

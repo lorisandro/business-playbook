@@ -289,121 +289,121 @@ Sfide:
 ❌ Richieste funzionalità travolgenti (prioritizzare senza pietà)
 ```
 
-### Fase 3: SCALING (Mesi 10-15, 30% Passive)
+### Fase 3: SCALATA (Mesi 10-15, 30% Passivo)
 
 ```yaml
-Effort: 25h/settimana
-Activities:
-- SEO content compound (30+ articles ranking)
-- Partnerships live (Zapier, Make.com integrations)
-- Affiliate program (10-20 affiliates active)
-- Customer success (reduce churn)
-- Feature updates (1-2/mese)
+Impegno: 25h/settimana
+Attività:
+- Contenuti SEO composti (30+ articoli in classifica)
+- Partnership attive (integrazioni Zapier, Make.com)
+- Programma affiliazione (10-20 affiliati attivi)
+- Successo clienti (ridurre abbandono)
+- Aggiornamenti funzionalità (1-2/mese)
 
-Revenue: €1,500-3,000/mese MRR
-Customers: 40-70
-Churn: 10%/mese (need +4-7 new customers/mese)
-Passive: 30% (SEO + partnerships drive organic leads)
+Fatturato: €1,500-3,000/mese MRR
+Clienti: 40-70
+Abbandono: 10%/mese (servono +4-7 nuovi clienti/mese)
+Passivo: 30% (SEO + partnership generano lead organici)
 
-Systems in Place:
-✅ Help docs comprehensive (reduce support load)
-✅ Onboarding email sequence (automated)
-✅ Monitoring alerts (catch issues fast)
-✅ Affiliate program running (passive lead gen)
+Sistemi Attivi:
+✅ Documentazione aiuto completa (riduce carico supporto)
+✅ Sequenza email onboarding (automatizzata)
+✅ Avvisi monitoraggio (rilevano problemi velocemente)
+✅ Programma affiliazione attivo (generazione lead passiva)
 ```
 
-### Fase 4: MAINTENANCE (Mesi 16-24, 60% Passive)
+### Fase 4: MANUTENZIONE (Mesi 16-24, 60% Passivo)
 
 ```yaml
-Effort: 15h/settimana
-Activities:
-- Customer support (2-3h/giorno)
-- Content marketing (1 article/settimana)
-- Feature updates (minor, 1/mese)
-- Churn analysis + retention campaigns
-- Monitoring + bug fixes
+Impegno: 15h/settimana
+Attività:
+- Supporto clienti (2-3h/giorno)
+- Marketing contenuti (1 articolo/settimana)
+- Aggiornamenti funzionalità (minori, 1/mese)
+- Analisi abbandono + campagne fidelizzazione
+- Monitoraggio + correzioni bug
 
-Revenue: €3,000-6,000/mese MRR
-Customers: 70-150
-Churn: 8%/mese (improved customer success)
-Passive: 60% (most leads organic, systems running)
+Fatturato: €3,000-6,000/mese MRR
+Clienti: 70-150
+Abbandono: 8%/mese (successo clienti migliorato)
+Passivo: 60% (la maggior parte lead organici, sistemi in esecuzione)
 
-Possible Optimization:
-- Hire VA for customer support (€500-800/mese)
-  → Your effort: 10h/settimana
-  → Passive: 75%
+Ottimizzazione Possibile:
+- Assumere VA per supporto clienti (€500-800/mese)
+  → Tuo impegno: 10h/settimana
+  → Passivo: 75%
 ```
 
-### Fase 5: TRUE PASSIVE (Post 24 mesi, 80% Passive)
+### Fase 5: VERO PASSIVO (Post 24 mesi, 80% Passivo)
 
 ```yaml
-Effort: 10h/settimana (strategic only)
-Activities:
-- Strategic decisions (pricing, positioning)
-- High-touch customer calls (enterprise only)
-- Major feature planning (quarterly)
-- Financial review + optimization
+Impegno: 10h/settimana (solo strategico)
+Attività:
+- Decisioni strategiche (prezzi, posizionamento)
+- Chiamate clienti alto contatto (solo enterprise)
+- Pianificazione funzionalità maggiori (trimestrale)
+- Revisione finanziaria + ottimizzazione
 
-Revenue: €5,000-12,000+/mese MRR
-Customers: 120-300+
-Churn: 6-8%/mese (mature product)
-Passive: 80% (VA handles support, systems automated)
+Fatturato: €5,000-12,000+/mese MRR
+Clienti: 120-300+
+Abbandono: 6-8%/mese (prodotto maturo)
+Passivo: 80% (VA gestisce supporto, sistemi automatizzati)
 
 Team:
-- VA Customer Support: €500-1,000/mese
-- Freelance Developer (bug fixes): €500/mese (as-needed)
-- You: Strategic + high-value activities only
+- VA Supporto Clienti: €500-1,000/mese
+- Sviluppatore Freelance (correzioni bug): €500/mese (secondo necessità)
+- Tu: Solo attività strategiche + alto valore
 
-Exit Option:
-- €8,000 MRR × 12 = €96,000 ARR
-- SaaS multiple: 3-5x ARR
-- Valuation: €288k-480k potential sale ✅
+Opzione Uscita:
+- €8,000 MRR × 12 = €96,000 fatturato annuale
+- Multiplo SaaS: 3-5x fatturato annuale
+- Valutazione: €288k-480k vendita potenziale ✅
 ```
 
 ## ✅ Perché Questo è "Reddito Passivo" (Eventualmente)
 
 ```yaml
-Recurring Revenue (vs One-Time):
-✅ Customer pays €49/mese
-✅ Next month: same customer pays again (automatic)
-✅ MRR compounds (new + existing customers)
-✅ Exit value: 3-5x ARR (asset appreciates)
+Fatturato Ricorrente (vs Una Tantum):
+✅ Cliente paga €49/mese
+✅ Mese prossimo: stesso cliente paga di nuovo (automatico)
+✅ MRR si compone (clienti nuovi + esistenti)
+✅ Valore uscita: 3-5x fatturato annuale (asset si apprezza)
 
-Automated Systems:
-✅ API runs 24/7 (no manual work per request)
-✅ Stripe handles billing (auto-renewal, invoices)
-✅ Help docs reduce support (self-service)
-✅ Monitoring alerts (catch issues proactively)
+Sistemi Automatizzati:
+✅ API funziona 24/7 (nessun lavoro manuale per richiesta)
+✅ Stripe gestisce fatturazione (rinnovo automatico, fatture)
+✅ Documentazione aiuto riduce supporto (auto-servizio)
+✅ Avvisi monitoraggio (rilevano problemi proattivamente)
 
-Scalable:
-✅ 1 customer = same infrastructure as 1,000
-✅ Serverless (Vercel scales automatically)
-✅ Marginal cost per customer: ~€0.50-2.00 (APIs, hosting)
+Scalabile:
+✅ 1 cliente = stessa infrastruttura di 1,000
+✅ Serverless (Vercel scala automaticamente)
+✅ Costo marginale per cliente: ~€0.50-2.00 (API, hosting)
 
-Time Freedom:
-✅ Mesi 1-12: 30-40h/settimana (building phase)
-✅ Mesi 13-24: 15-20h/settimana (maintenance)
-✅ Post 24 mesi: 10h/settimana (strategic only)
-✅ Hire VA: 5-10h/settimana (delegated)
+Libertà Temporale:
+✅ Mesi 1-12: 30-40h/settimana (fase costruzione)
+✅ Mesi 13-24: 15-20h/settimana (manutenzione)
+✅ Post 24 mesi: 10h/settimana (solo strategico)
+✅ Assumere VA: 5-10h/settimana (delegato)
 ```
 
 ## ⚠️ Miti Reddito Passivo (Sii Realistico)
 
 ```yaml
-MYTH: "Set and forget, earn while you sleep da giorno 1"
-REALITY: Mesi 1-12 = full-time effort. Passive viene DOPO.
+MITO: "Imposta e dimentica, guadagna mentre dormi dal giorno 1"
+REALTÀ: Mesi 1-12 = sforzo full-time. Passivo viene DOPO.
 
-MYTH: "No customer support needed (tutto automatico)"
-REALITY: B2B SaaS = support necessario. Mitigate con docs + VA.
+MITO: "Nessun supporto clienti necessario (tutto automatico)"
+REALTÀ: B2B SaaS = supporto necessario. Mitiga con documentazione + VA.
 
-MYTH: "€10k/mese in 6 mesi facile"
-REALITY: €2k/mese in 12-15 mesi è realistic. €10k = 24-36 mesi.
+MITO: "€10k/mese in 6 mesi facile"
+REALTÀ: €2k/mese in 12-15 mesi è realistico. €10k = 24-36 mesi.
 
-MYTH: "No marketing needed (prodotto vende da solo)"
-REALITY: Marketing = 50% effort. SEO, outreach, partnerships critical.
+MITO: "Nessun marketing necessario (prodotto vende da solo)"
+REALTÀ: Marketing = 50% impegno. SEO, approccio diretto, partnership critiche.
 
-MYTH: "Passive = zero work"
-REALITY: Passive = not trading time for money directly. Ma maintenance sempre serve.
+MITO: "Passivo = zero lavoro"
+REALTÀ: Passivo = non scambi tempo per denaro direttamente. Ma manutenzione sempre serve.
 ```
 
 ## 🚀 Perché Questo vs Altri Flussi Reddito Passivo
